@@ -1,5 +1,7 @@
 # Meta-GBA
 
+<img width="512" height="288" alt="Meta-GBA gaming commercial GIF" src="https://github.com/user-attachments/assets/6fe7fb12-5378-40d0-b944-dc898ec94b97" />
+
 A static, patch-only landing site and documentation hub for careful personal experimentation with legally owned GB, GBC, and GBA ROM dumps.
 
 ![Static HTML](https://img.shields.io/badge/runtime-static%20HTML-1769e0?style=flat-square)
