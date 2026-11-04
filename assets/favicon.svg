@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Meta-GBA shield and patch symbol">
+  <rect width="64" height="64" rx="15" fill="#fffaf2"/>
+  <path d="M32 7 53 15v15c0 14-8.9 23.5-21 28C19.9 53.5 11 44 11 30V15z" fill="#1769e0" stroke="#16233b" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M24 22h16v7H24zM20 29h24v13H20z" fill="#bde8d6" stroke="#16233b" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M26 35h3M35 35h3M27 42h10" stroke="#16233b" stroke-width="3" stroke-linecap="round"/>
+  <path d="m46 10 2 5 5 2-5 2-2 5-2-5-5-2 5-2z" fill="#f36f56" stroke="#16233b" stroke-width="2" stroke-linejoin="round"/>
+</svg>
